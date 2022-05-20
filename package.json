@@ -20,7 +20,7 @@
     "seed": "yarn rw exec seed"
   },
   "scripts": {
-    "build": "yarn rw build storybook --build",
-    "start": "yarn rw build storybook --open"
+    "build": "yarn rw storybook --build",
+    "start": "yarn rw storybook --open"
   }
 }
